@@ -1,6 +1,7 @@
 COMPOSE := docker-compose
+
 default:
-	$(COMPOSE) up --build
+	$(COMPOSE) up -d --build
 
 up:
 	$(COMPOSE) up
