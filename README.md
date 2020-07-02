@@ -1,5 +1,5 @@
 # kadai-manager
-中澤研講義で作成した課題の複製リポジトリです。[https://github.com/nkzwlab/group3](オリジナル)
+中澤研講義で作成した課題の複製リポジトリです。[オリジナル](https://github.com/nkzwlab/group3)
 
 ## 課題管理サービス
 提出していない課題の管理や、これから提出する課題の下書きを行うことができます。
